@@ -1,6 +1,6 @@
 # hello-world
 Testing repository
 
-first bit of text
-second bit of text
-lets see some changes
+first bit of text /n
+second bit of text /n
+lets see some changes /n
